@@ -4,3 +4,5 @@ let b = [23, 41, 24, 65];
 let c = [...a, ...b];
 
 c.sort((a, b) => a - b)
+
+// ceshi
