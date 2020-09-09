@@ -1,4 +1,4 @@
-// test
+// test222
 
 function throttle(func, wait, trailing) {
   let lastTime = 0;
