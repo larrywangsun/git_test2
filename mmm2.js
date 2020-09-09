@@ -23,7 +23,7 @@ function throttle(func, wait, trailing) {
     }
   };
 }
-
+// local update
 
 // 该方法是，滚动到页面底部时，触发的动作..
 let handler = function () { };
