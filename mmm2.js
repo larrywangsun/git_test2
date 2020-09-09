@@ -1,3 +1,5 @@
+// test
+
 function throttle(func, wait, trailing) {
   let lastTime = 0;
   let timer;
